@@ -17,8 +17,8 @@ The purpose of this repository is to demonstrate practical implementation of Jav
 | Course      | B.Tech                                                |
 | Department  | Computer Science and Engineering                      |
 | Repository  | [Java-Code](https://github.com/Ayush-yash/Java-Code)   |
-| [GitHub](https://github.com/Ayush-yash)      | [@Ayush-yash](https://github.com/Ayush-yash)          |
-| [LinkedIn](https://www.linkedin.com/in/ayush-yash-899374397/)    | [Ayush Yash](https://www.linkedin.com/in/ayush-yash-899374397/) |
+| GitHub      | [@Ayush-yash](https://github.com/Ayush-yash)          |
+| LinkedIn    | [Ayush Yash](https://www.linkedin.com/in/ayush-yash-899374397/) |
 
 
 ## Repository Structure
@@ -119,9 +119,8 @@ The documented arithmetic operations include addition, subtraction, multiplicati
 Roll Number: 24EGJCS045  
 B.Tech — Department of Computer Science and Engineering  
 
-* **[GitHub](https://github.com/Ayush-yash):** [@Ayush-yash](https://github.com/Ayush-yash)  
-* **[Repository](https://github.com/Ayush-yash/Java-Code):** [Java-Code](https://github.com/Ayush-yash/Java-Code)  
-* **[LinkedIn](https://www.linkedin.com/in/ayush-yash-899374397/):** [Ayush Yash](https://www.linkedin.com/in/ayush-yash-899374397/)  
+GitHub: [@Ayush-yash](https://github.com/Ayush-yash)
+LinkedIn: [Ayush Yash](https://www.linkedin.com/in/ayush-yash-899374397/)  
 
 
 ## License
